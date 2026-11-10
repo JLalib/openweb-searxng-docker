@@ -12,6 +12,12 @@ $ whoami
 genbyte  # homelab · self-hosting · docker
 ```
 
+## 🎥 Vídeo tutorial
+
+[![Ver el vídeo en YouTube](https://img.youtube.com/vi/rYweo6I1kUE/maxresdefault.jpg)](https://youtu.be/rYweo6I1kUE)
+
+▶️ [Ver en YouTube](https://youtu.be/rYweo6I1kUE) · [Suscríbete a GENBYTE](https://www.youtube.com/@genbyte?sub_confirmation=1)
+
 ## 📁 Estructura
 
 ```
